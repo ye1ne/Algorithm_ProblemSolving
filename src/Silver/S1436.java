@@ -26,18 +26,17 @@ public class S1436 {
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String input = scanner.nextLine();
-        int inputInt = Integer.parseInt(input);
-        char[] tmp = input.toCharArray();
-        int inputLen = tmp.length;
-        int[] num = new int[5];
+        int input = scanner.nextInt();
+
+        int[] num = new int[4];
         int tmpNum = 0;
         for(int i = 1; i<=4; i++){
             for(int j=i; j>0;j--){
-                 tmpNum += Permutation(9,i-1);
+                 tmpNum += Permutation(9,j-1)*factorial(j);
             }
-            num[i-1] = tmpNum*factorial(i);
+            num[i-1] = tmpNum;
             System.out.println(mathIndex(i)+" "+factorial(i));
+            tmpNum =0;
         }
         System.out.println(Arrays.toString(num));
         System.out.println(Permutation(9,3)+" "+Permutation(9,2)+" "+Permutation(9,1));
