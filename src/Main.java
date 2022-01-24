@@ -8,5 +8,9 @@ public class Main{
         System.out.println(a/b);
         System.out.println(a%b);
 
+        Scanner scanner1 = new Scanner(System.in);
+        int test = scanner1.nextInt();
+
+
     }
 }
