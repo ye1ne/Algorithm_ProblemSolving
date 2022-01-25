@@ -48,12 +48,15 @@ public class S1018 {
                         if (array[row][col] != base2[row-i][col-j]) count_b2++;
                     }
                 }
+
                 if(count_b1 < result) {
                     result = count_b1;
                 }
                 if(count_b2 < result) {
                     result = count_b2;
                 }
+                count_b2 = 0;
+                count_b1 = 0;
             }
         }
         System.out.println(result);
