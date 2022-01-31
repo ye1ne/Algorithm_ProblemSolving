@@ -4,26 +4,31 @@ import java.io.*;
 
 
 public class BJ2_DP_S1463 {
-    static Integer[] find;
-    static int recur_find_min(int num){
-        if(find[num] == null) {
-            if (num % 6 == 0) {
-                find[num] = Math.min(recur_find_min(num - 1), Math.min(recur_find_min(num / 2), recur_find_min(num / 3)))+1;
-            } else if (num % 3 == 0) {
-                find[num] = Math.min(recur_find_min(num - 1), recur_find_min(num / 3))+1;
-            } else if (num % 2 == 0) {
-                find[num] = Math.min(recur_find_min(num - 1), recur_find_min(num / 2))+1;
-            } else {
-                find[num] = recur_find_min(num - 1)+1;
-            }
+    static int[] find;
+    static int recur_find_min(int num) {
+        if(num == 1){
+            return 0;
+        }else if(find[num] != 0) {
+            return find[num];
         }
+
+        if (num % 6 == 0) {
+            find[num] = Math.min(recur_find_min(num - 1), Math.min(recur_find_min(num / 2), recur_find_min(num / 3)))+1;
+        } else if (num % 3 == 0) {
+            find[num] = Math.min(recur_find_min(num - 1), recur_find_min(num / 3))+1;
+        } else if (num % 2 == 0) {
+            find[num] = Math.min(recur_find_min(num - 1), recur_find_min(num / 2))+1;
+        } else {
+            find[num] = recur_find_min(num - 1)+1;
+        }
+
         return find[num];
+
     }
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine());
-        find = new Integer[(num + 1)];
-        find[0] = find[1] = 0;
+        find = new int[num+1];
         System.out.println(recur_find_min(num));
 
     }
