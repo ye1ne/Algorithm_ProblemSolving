@@ -3,7 +3,7 @@ package BJ_DP;
 import java.io.*;
 import java.util.*;
 
-public class BJ2_DP_S11053 {
+public class BJ2_DP_S11722 {
 
     static int[] num;
     static int[] dp;
@@ -16,10 +16,10 @@ public class BJ2_DP_S11053 {
             num[i] = Integer.parseInt(st.nextToken());
         }
         dp = new int[N+1];
-        dp[0] = num[0] =0;
+        num[0] =1001;
         for(int i=1; i<=N;i++){
             for(int j=0; j<i; j++) {
-                if (num[j]< num[i] && (dp[j]+1) > dp[i]){
+                if (num[j]> num[i] && (dp[j]+1) > dp[i]){
                     dp[i] = dp[j]+1;
                 }
             }
