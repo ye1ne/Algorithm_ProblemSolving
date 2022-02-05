@@ -15,6 +15,7 @@ public class Main{
         }
     }
     static void bfs(int ver){
+
         visit[ver] = true;
         Queue<Integer> q = new LinkedList<Integer>();
         q.offer(ver);
