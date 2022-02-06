@@ -6,6 +6,7 @@ public class Main{
     static int[][] map;
     static boolean[] visit;
 
+
     static void dfs(int ver){
         visit[ver] = true;
         System.out.print(ver+" ");
