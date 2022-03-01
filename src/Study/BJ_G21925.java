@@ -27,20 +27,27 @@ public class BJ_G21925 {
         s.push(A[0]);
         OuterLoop:
         for(int i=1; i<N; i++){
-            if(!s.isEmpty() && s.peek() ==A[i]){
-                for(int j=0; j<s.size();j++){
-                    if(! (A[i+j]==s.pop())){
+            if(s.size()==1 && s.peek() ==A[i]){
+                int tmp = s.size();
+                if(N-i<tmp){
+                    isPalindrome = false;
+                    break OuterLoop;
+                }
+                for(int j=0; j<tmp;j++){
+                    if(!(A[i+j]==s.pop())){
                         isPalindrome = false;
                         break OuterLoop;
                     }
                 }
                 count++;
+                i+=(tmp-1);
             }
             else{
                 s.push(A[i]);
             }
         }
-        if(isPalindrome) System.out.println(count);
+        if(!s.isEmpty()) System.out.println(-1);
+        else if(isPalindrome) System.out.println(count);
         else System.out.println(-1);
     }
 }
