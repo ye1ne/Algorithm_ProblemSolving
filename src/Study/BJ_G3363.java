@@ -6,18 +6,19 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class BJ_G3363 {
+
     final static int plus = 0, minus = 1;
     static int[][] inputNum = new int[3][8];
     static char[] inputOp = new char[3];
     static int[] countNum = new int[13];
     static int[][] checker  = new int[2][13];
+
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         for( int i=0; i<3; i++){
             String str = br.readLine();
             if(str.equals("")){
                 i--;
-                continue;
             }else {
                 StringTokenizer st = new StringTokenizer(str);
                 for (int j = 0; j < 9; j++) {
@@ -33,7 +34,7 @@ public class BJ_G3363 {
                 }
             }
         }
-        br.close();
+
         int availableLine = 3;
         for( int i=0; i<3; i++){
             if(inputOp[i] == '=') {
@@ -58,23 +59,17 @@ public class BJ_G3363 {
             }
         }
         boolean isImp = true;
-        int count = 0;
-        int resultNum = 0;
-        char resultOp = 0;
+        int count = 0, resultNum = 0;
+        char resultOp = 'X';
 
         for( int i=0; i<2; i++){
             for(int j=0; j<13;j++) {
                 if(checker[i][j] == availableLine){
                     if(i==plus){
-                        resultNum = j;
-                        resultOp = '+';
-                        isImp = false;
+                        resultNum = j; resultOp = '+'; isImp = false;
                         count++;
                     }else{
-                        resultNum = j;
-                        resultOp = '-';
-                        count++;
-                        isImp = false;
+                        resultNum = j; resultOp = '-'; count++; isImp = false;
                     }
                 }
             }
