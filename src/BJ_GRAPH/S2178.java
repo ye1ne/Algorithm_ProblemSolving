@@ -53,6 +53,8 @@ public class S2178 {
             int y = info.y;
             int depth = info.depth;
             isVisited[x][y] = true;
+            StringTokenizer stringTokenizer = new StringTokenizer("ds:ds",":");
+            System.out.println(stringTokenizer.nextToken());
 
             if(x==N-1 && y==M-1){
                 result = depth;
