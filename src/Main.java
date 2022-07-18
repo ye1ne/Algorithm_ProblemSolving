@@ -1,17 +1,20 @@
+import java.awt.*;
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.lang.reflect.Array;
-import java.util.*;
+import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        int i = 0;
-        while( i++ <10){
-            System.out.println("hi");
-        }
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        long N = Long.parseLong(st.nextToken());
+        long M = Integer.parseInt(st.nextToken());
+
+        System.out.println(N/M);
+        System.out.println(N%M);
     }
 
 }
