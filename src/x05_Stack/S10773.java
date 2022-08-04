@@ -1,4 +1,4 @@
-package BJ_Stack;
+package x05_Stack;
 
 import java.io.*;
 import java.util.Stack;
