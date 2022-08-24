@@ -1,5 +1,6 @@
 import java.awt.*;
 import java.io.*;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -8,11 +9,7 @@ public class Main {
 
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        long N = Long.parseLong(st.nextToken());
-        long M = Integer.parseInt(st.nextToken());
-
-        System.out.println(N/M);
-        System.out.println(N%M);
+        String answer = "";
 
     }
 
