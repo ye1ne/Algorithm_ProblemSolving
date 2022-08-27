@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class S18808 {
+public class G18808 {
     static int N,M,K, totalSticker;
     static int[][] map;
     static int[][][] sticker;

@@ -3,10 +3,9 @@ package x0D_simulation;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class S13335 {
+public class G13335 {
     static int n,w,L;
     static int[] array;
     static int[] load;

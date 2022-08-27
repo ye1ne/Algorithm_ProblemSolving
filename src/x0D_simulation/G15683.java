@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class S15683 {
+public class G15683 {
     static int N,M;
     static int[][] map;
     static int[][] countMap;
