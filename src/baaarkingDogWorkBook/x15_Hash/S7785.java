@@ -7,7 +7,7 @@ import java.util.*;
 
 public class S7785 {
     static int N;
-    static List<String> list = new ArrayList<>();
+    static HashMap<String,String> map = new HashMap();
     public static void main(String[] args) throws IOException {
 
 
@@ -20,11 +20,11 @@ public class S7785 {
             String name = st.nextToken();
             String state = st.nextToken();
             if(state.equals("leave")){
-                list.remove(name);
-            }else list.add(name);
+                map.remove(name);
+            }else map.put(name, state);
         }
-
-        Collections.sort(list,Comparator.reverseOrder());
-        for(String name: list) System.out.println(name);
+        Object[] mapKey = map.keySet().toArray();
+        Arrays.sort(mapKey);
+        for(int i= mapKey.length-1;i>=0; i--) System.out.println(mapKey[i]);
     }
 }
