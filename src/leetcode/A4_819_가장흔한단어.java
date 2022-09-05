@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-public class A3_819_가장흔한단어 {
+public class A4_819_가장흔한단어 {
     public static void main(String[] args) {
         String paragraph = "Bob hit a ball, the hit BALL flew far after it was hit.";
         String[] banned = {"hit"};
