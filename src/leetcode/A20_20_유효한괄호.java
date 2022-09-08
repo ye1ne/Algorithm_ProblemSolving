@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class A20_20_유효한괄호 {
     public static void main(String[] args) {
-        String s = "]";
+        String s = "bcabc";
 
         Stack<Character> stack = new Stack<>();
 
