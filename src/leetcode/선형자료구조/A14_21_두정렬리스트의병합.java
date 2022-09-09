@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.선형자료구조;
 
 public class A14_21_두정렬리스트의병합 {
     static class ListNode {

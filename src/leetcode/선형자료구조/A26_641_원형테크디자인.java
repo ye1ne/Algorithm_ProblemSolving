@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.선형자료구조;
 
 public class A26_641_원형테크디자인 {
     public static void main(String[] args) {

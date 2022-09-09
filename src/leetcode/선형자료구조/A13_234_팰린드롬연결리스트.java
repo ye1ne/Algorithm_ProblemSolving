@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.선형자료구조;
 
 import javax.print.DocFlavor;
 import java.util.ArrayDeque;

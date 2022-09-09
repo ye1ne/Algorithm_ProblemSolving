@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.선형자료구조;
 
 public class A11_238_자신을제외한배열의곱 {
     public static void main(String[] args) {

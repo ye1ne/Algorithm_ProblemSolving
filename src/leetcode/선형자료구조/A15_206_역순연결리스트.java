@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.선형자료구조;
 
 import Study.BJ_G22856;
 

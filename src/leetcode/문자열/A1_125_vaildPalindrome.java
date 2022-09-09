@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.문자열;
 
 import java.io.BufferedReader;
 import java.util.LinkedList;
