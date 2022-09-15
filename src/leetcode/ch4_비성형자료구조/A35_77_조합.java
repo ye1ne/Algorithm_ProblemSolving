@@ -3,7 +3,7 @@ package leetcode.ch4_비성형자료구조;
 import java.util.ArrayList;
 import java.util.List;
 
-public class A34_46_조합 {
+public class A35_77_조합 {
     static List<List<Integer>> result ;
     static int num;
     public static void main(String[] args) {
