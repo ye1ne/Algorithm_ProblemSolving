@@ -1,8 +1,7 @@
-package leetcode.문자열;
+package leetcode.ch2_문자열;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.Stack;
 
 public class A1_125_vaildPalindrome2 {
     public static void main(String[] args) {

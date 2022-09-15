@@ -1,6 +1,4 @@
-package leetcode.선형자료구조;
-
-import java.util.List;
+package leetcode.ch3_선형자료구조;
 
 public class A18_328_홀짝연결리스트 {
     static class ListNode {

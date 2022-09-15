@@ -1,6 +1,4 @@
-package leetcode.선형자료구조;
-
-import java.util.Queue;
+package leetcode.ch3_선형자료구조;
 
 public class A25_622_원형큐디자인 {
 

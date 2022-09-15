@@ -1,8 +1,4 @@
-package leetcode.선형자료구조;
-
-import Study.BJ_G22856;
-
-import java.util.Stack;
+package leetcode.ch3_선형자료구조;
 
 public class A15_206_역순연결리스트 {
     static class ListNode {

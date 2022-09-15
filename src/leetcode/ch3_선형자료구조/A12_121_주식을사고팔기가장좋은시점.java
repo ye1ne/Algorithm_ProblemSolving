@@ -1,4 +1,4 @@
-package leetcode.선형자료구조;
+package leetcode.ch3_선형자료구조;
 
 public class A12_121_주식을사고팔기가장좋은시점 {
     public static void main(String[] args) {

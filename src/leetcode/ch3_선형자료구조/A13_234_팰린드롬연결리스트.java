@@ -1,10 +1,7 @@
-package leetcode.선형자료구조;
+package leetcode.ch3_선형자료구조;
 
-import javax.print.DocFlavor;
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.List;
-import java.util.Stack;
 
 public class A13_234_팰린드롬연결리스트 {
      static class ListNode {

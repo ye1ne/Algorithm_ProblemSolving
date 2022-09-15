@@ -1,4 +1,4 @@
-package leetcode.선형자료구조;
+package leetcode.ch3_선형자료구조;
 
 public class A16_2_두수의덧셈 {
     static class ListNode {

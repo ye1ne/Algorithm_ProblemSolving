@@ -1,4 +1,4 @@
-package leetcode.선형자료구조;
+package leetcode.ch3_선형자료구조;
 
 public class A8_42_빗물트래킹 {
     public static void main(String[] args) {

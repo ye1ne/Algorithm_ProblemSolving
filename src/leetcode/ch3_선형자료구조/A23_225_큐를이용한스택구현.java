@@ -1,8 +1,7 @@
-package leetcode.선형자료구조;
+package leetcode.ch3_선형자료구조;
 
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
 
 public class A23_225_큐를이용한스택구현 {
     public static void main(String[] args) {

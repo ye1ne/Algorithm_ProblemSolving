@@ -1,8 +1,5 @@
-package leetcode.문자열;
+package leetcode.ch2_문자열;
 
-import java.io.BufferedReader;
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Stack;
 
 public class A1_125_vaildPalindrome {

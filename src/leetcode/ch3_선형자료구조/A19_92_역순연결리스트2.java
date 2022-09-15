@@ -1,6 +1,4 @@
-package leetcode.선형자료구조;
-
-import javax.swing.*;
+package leetcode.ch3_선형자료구조;
 
 public class A19_92_역순연결리스트2 {
     static class ListNode {

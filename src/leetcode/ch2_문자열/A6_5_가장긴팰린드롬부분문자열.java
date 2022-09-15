@@ -1,4 +1,4 @@
-package leetcode.문자열;
+package leetcode.ch2_문자열;
 
 
 public class A6_5_가장긴팰린드롬부분문자열 {

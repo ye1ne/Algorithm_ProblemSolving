@@ -1,4 +1,4 @@
-package leetcode.선형자료구조;
+package leetcode.ch3_선형자료구조;
 
 public class A17_24_페어의노드스왑 {
     static class ListNode {

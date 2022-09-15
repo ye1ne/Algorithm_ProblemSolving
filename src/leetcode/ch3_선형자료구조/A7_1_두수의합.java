@@ -1,8 +1,4 @@
-package leetcode.선형자료구조;
-
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Hashtable;
+package leetcode.ch3_선형자료구조;
 
 public class A7_1_두수의합 {
     public static void main(String[] args) {

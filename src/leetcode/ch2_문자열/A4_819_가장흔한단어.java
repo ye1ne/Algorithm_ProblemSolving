@@ -1,4 +1,4 @@
-package leetcode.문자열;
+package leetcode.ch2_문자열;
 
 import java.util.HashMap;
 import java.util.Map;
