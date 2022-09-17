@@ -1,4 +1,4 @@
-package leetcode.ch4_비성형자료구조;
+package leetcode.ch4_비선형자료구조;
 
 public class A50_108_정렬된배열의이진탐색트리변환 {
 

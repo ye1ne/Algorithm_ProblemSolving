@@ -1,4 +1,4 @@
-package leetcode.ch4_비성형자료구조;
+package leetcode.ch4_비선형자료구조;
 
 public class A44_687_가장긴동일값의경로 {
     static class TreeNode {

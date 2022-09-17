@@ -1,4 +1,4 @@
-package leetcode.ch4_비성형자료구조;
+package leetcode.ch4_비선형자료구조;
 
 public class A48_110_균형이진트리 {
     static class TreeNode {

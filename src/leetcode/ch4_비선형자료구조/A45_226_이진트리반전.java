@@ -1,4 +1,4 @@
-package leetcode.ch4_비성형자료구조;
+package leetcode.ch4_비선형자료구조;
 
 public class A45_226_이진트리반전 {
     static class TreeNode {
@@ -22,7 +22,7 @@ public class A45_226_이진트리반전 {
 
         root = dfs(root);
         System.out.println();
-        
+
     }
 
     static TreeNode dfs(TreeNode node){

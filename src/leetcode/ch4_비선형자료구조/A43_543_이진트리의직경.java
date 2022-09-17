@@ -1,4 +1,4 @@
-package leetcode.ch4_비성형자료구조;
+package leetcode.ch4_비선형자료구조;
 
 public class A43_543_이진트리의직경 {
     static class TreeNode {

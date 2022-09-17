@@ -1,6 +1,6 @@
-package leetcode.ch4_비성형자료구조;
+package leetcode.ch4_비선형자료구조;
 
-public class A51_1038_이진탐색트리를더큰수합계트리로 {
+public class A53_783_이진탐색트리노드간최소거리 {
 
     static class TreeNode {
         int val;
@@ -16,31 +16,30 @@ public class A51_1038_이진탐색트리를더큰수합계트리로 {
         }
     }
 
-    static int total;
+
 
     public static void main(String[] args) {
-        int[] nums = {3,5,7,10,15,18};
+        int[] nums = {1,2,3,4,6};
         TreeNode root = sortByBST(nums);
 
-        total = 0;
-        TreeNode node = inOrder(root);
-        System.out.println();
+
+        min = Integer.MAX_VALUE;
+        priv = Integer.MIN_VALUE;
 
 
+        inOrder(root);
+
+        System.out.println(min);
     }
 
-    static TreeNode inOrder(TreeNode node){
-        if(node == null) return null;
 
-
-
-        TreeNode right = inOrder(node.right);
-        total+= node.val;
-        System.out.println(node.val +" "+ total);
-        node.val = total;
-        TreeNode left= inOrder(node.left);
-
-        return new TreeNode(node.val,left,right);
+    static int priv, min;
+    static void inOrder(TreeNode node){
+        if(node == null) return;
+        inOrder(node.left);
+        if(priv != Integer.MIN_VALUE) min = Math.min(node.val-priv,min);
+        priv = node.val;
+        inOrder(node.right);
     }
 
     static TreeNode sortByBST(int[] arr){

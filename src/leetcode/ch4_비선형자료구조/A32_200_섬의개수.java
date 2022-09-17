@@ -1,6 +1,4 @@
-package leetcode.ch4_비성형자료구조;
-
-import java.util.Arrays;
+package leetcode.ch4_비선형자료구조;
 
 public class A32_200_섬의개수 {
 
