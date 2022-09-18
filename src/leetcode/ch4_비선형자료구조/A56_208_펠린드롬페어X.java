@@ -3,7 +3,7 @@ package leetcode.ch4_비선형자료구조;
 import java.util.ArrayList;
 import java.util.List;
 
-public class A56_208_트라이구현 {
+public class A56_208_펠린드롬페어X {
 
     static class TrieNode{
         char word;
@@ -58,14 +58,48 @@ public class A56_208_트라이구현 {
             return true;
         }
     }
-    public static void main(String[] args) {
-        Trie obj = new Trie();
-        obj.insert("apple");
-        boolean param_2 = obj.search("apple");
-        boolean param_4 = obj.search("app");
-        boolean param_3 = obj.startsWith("app");
-        System.out.println();
+
+    static List<List<Integer>> palindromePairs(String[] words) {
+        List<List<Integer>> result = new ArrayList<>();
+        for(int i=0; i<words.length; i++){
+            for(int j=0; j<words.length; j++){
+                if(i==j) continue;
+                Trie root = new Trie();
+                String tmp = words[i] + words[j];
+                String reverse;
+                if(tmp.length() == 1){
+                    List<Integer> tmpList = new ArrayList<>();
+                    tmpList.add(i);
+                    tmpList.add(j);
+                    result.add(tmpList);
+                    continue;
+                }
+                //짝수
+                if(tmp.length()%2 == 0){
+                    root.insert(tmp.substring(0,tmp.length()/2));
+                    StringBuilder sb = new StringBuilder(tmp.substring(tmp.length()/2));
+                    reverse = sb.reverse().toString();
+                }else{ //홀수
+                    root.insert(tmp.substring(0,tmp.length()/2));
+                    StringBuilder sb = new StringBuilder(tmp.substring(tmp.length()/2+1));
+                    reverse = sb.reverse().toString();
+                }
+                if(root.search(reverse)){
+                    List<Integer> tmpList = new ArrayList<>();
+                    tmpList.add(i);
+                    tmpList.add(j);
+                    result.add(tmpList);
+                }
+            }
+        }
+
+        return result;
     }
+    public static void main(String[] args) {
+        String[] words = {"a",""};
+        palindromePairs(words);
+    }
+
 }
 
 
