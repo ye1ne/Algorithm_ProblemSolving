@@ -1,0 +1,31 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(‘ŽÖŠûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‰‰«ÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Æ·Ëøÿÿÿÿ
+D
+java:S1604¶"(Make this anonymous inner class a lambda(ÓªàÂûÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(à“‘í
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í«–
+V	java:S125"<This block of commented-out lines of code should be removed.(ßŽÒåþÿÿÿÿ
+n
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 159 to the 15 allowed.(÷Æ·Ëøÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(÷Æ·Ëøÿÿÿÿ
+b
+java:S1871*"LThis branch's code block is the same as the block for the branch on line 38.(»­Ÿã
+a
+java:S1871."LThis branch's code block is the same as the block for the branch on line 38.(ýÅÖd
+b
+java:S1871<"LThis branch's code block is the same as the block for the branch on line 56.(Ð‹ø
+b
+java:S1871@"LThis branch's code block is the same as the block for the branch on line 56.(Ž¨ƒ°
+/
+java:S2178<"Correct this "&" to "&&".(Ð‹ø
+b
+java:S1871P"LThis branch's code block is the same as the block for the branch on line 76.(å­§·
+b
+java:S1871a"LThis branch's code block is the same as the block for the branch on line 92.(×†ƒ€
+h
+java:S1871p"MThis branch's code block is the same as the block for the branch on line 108.(Ã¿¨ÿÿÿÿÿ
+?
+java:S1659€"#Declare "isOk2" on a separate line.(æòÃôýÿÿÿÿ

@@ -1,0 +1,63 @@
+
+E
+java:S1066"/Merge this if statement with the enclosing one.(©˜ÛÖ
+J
+java:S1066K"/Merge this if statement with the enclosing one.(ßÃëğùÿÿÿÿ
+E
+java:S1066O"/Merge this if statement with the enclosing one.(­ï
+J
+java:S1066l"/Merge this if statement with the enclosing one.(À¥ú¹øÿÿÿÿ
+E
+java:S1066p"/Merge this if statement with the enclosing one.(­ï
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‰‰«ÿÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ŸØüıÿÿÿÿ
+b	java:S101z"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ°˜ê
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í«–
+i
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 108 to the 15 allowed.(Çµí‘
+S
+java:S1854@"=Remove this useless assignment to local variable "canDelect".(Ù¦µÕ
+X
+java:S1854B"=Remove this useless assignment to local variable "canDelect".(ğÀøûÿÿÿÿ
+X
+java:S1854D"=Remove this useless assignment to local variable "canDelect".(­Òæ›üÿÿÿÿ
+R
+java:S1854F"=Remove this useless assignment to local variable "canDelect".(îŸêH
+X
+java:S1854K"=Remove this useless assignment to local variable "canDelect".(ßÃëğùÿÿÿÿ
+S
+java:S1854O"=Remove this useless assignment to local variable "canDelect".(­ï
+X
+java:S1854R"=Remove this useless assignment to local variable "canDelect".(×’ù•øÿÿÿÿ
+X
+java:S1854l"=Remove this useless assignment to local variable "canDelect".(À¥ú¹øÿÿÿÿ
+S
+java:S1854p"=Remove this useless assignment to local variable "canDelect".(­ï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«…à€ıÿÿÿÿ
+b
+java:S1871,"LThis branch's code block is the same as the block for the branch on line 37.(²ÍşÊ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(²Áëÿÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(²Áëÿÿÿÿÿ
+D
+java:S14817".Remove this unused "canDelect" local variable.(òÒİ
+/
+java:S2178J"Correct this "&" to "&&".(´æıû
+4
+java:S2178N"Correct this "&" to "&&".(Éã·úÿÿÿÿ
+4
+java:S2178Q"Correct this "&" to "&&".(Â¿§ûÿÿÿÿ
+Q	java:S125a"<This block of commented-out lines of code should be removed.(ñ±¬
+/
+java:S2178k"Correct this "&" to "&&".(´æıû
+4
+java:S2178o"Correct this "&" to "&&".(Éã·úÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+\
+java:S1659{"ADeclare "down" and all following declarations on a separate line.(ê¹İ–şÿÿÿÿ
+L
+java:S1128"6Remove this unused import 'javax.xml.stream.Location'.(İØéñ
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.SortedMap'.(’ŸÕ

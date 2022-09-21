@@ -1,0 +1,15 @@
+
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÅ¦£ûÿÿÿÿ8…à¸Ëµ0
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(åí¢é8†à¸Ëµ0
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ºðÒÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¹Ä„
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8µ¨¸Ëµ0
+Z
+java:S1172
+"8Remove these unused method parameters "food_times", "k".(ºÅ¦£ûÿÿÿÿ8Šà¸Ëµ0
+g
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(ºÅ¦£ûÿÿÿÿ8Šà¸Ëµ0

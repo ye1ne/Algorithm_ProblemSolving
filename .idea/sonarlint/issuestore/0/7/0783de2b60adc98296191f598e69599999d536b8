@@ -1,0 +1,19 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Îåù&
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷–—¦ıÿÿÿÿ
+S
+java:S25891"7Remove this expression which always evaluates to "true"(ÎÑ¯a8Ş­ùµ0
+u
+java:S3008="SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öåÒøûÿÿÿÿ8Ş­ùµ0
+p
+java:S3008="NRename this field "MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öåÒøûÿÿÿÿ8Ş­ùµ0
+C
+java:S1659="!Declare "MIN" on a separate line.(öåÒøûÿÿÿÿ8ß­ùµ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù‡¯Ø8ığŠùµ0
+]	java:S125"<This block of commented-out lines of code should be removed.(È¶²Âûÿÿÿÿ8­½‹ùµ0
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÛÈäûÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'java.util.ArrayDeque'.(†®ŞÖúÿÿÿÿ
+G
+java:S1128",Remove this unused import 'java.util.Deque'.(³Ã¯¥şÿÿÿÿ

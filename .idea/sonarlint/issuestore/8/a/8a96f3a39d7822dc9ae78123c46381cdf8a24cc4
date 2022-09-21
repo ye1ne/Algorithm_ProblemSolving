@@ -1,0 +1,17 @@
+
+7
+java:S1643""Use a StringBuilder instead.(çÌêÿýÿÿÿÿ
+2
+java:S1643'"Use a StringBuilder instead.(—‚ÇŽ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€¶Üò
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¹Ä„
+P	java:S125"<This block of commented-out lines of code should be removed.(Ñ¯àj
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Åºœ²
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥ºÁê
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¥ºÁê
+Q
+java:S11196";Refactor the code to remove this label and the need for it.(õžœ£
+D
+java:S5413M")Verify that "remove()" is used correctly.(ç“—”þÿÿÿÿ
