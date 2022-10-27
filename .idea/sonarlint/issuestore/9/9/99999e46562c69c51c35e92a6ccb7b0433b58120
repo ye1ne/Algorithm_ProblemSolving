@@ -1,0 +1,26 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş€ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Çã‘Ê
+g
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(×²Äj
+P
+java:S1854":Remove this useless assignment to local variable "length".(öí·Ë
+Z
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(×²Äj
+@
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼
+X
+java:S1119";Refactor the code to remove this label and the need for it.(…ç¡¿8Ñİîö¶0
+A
+java:S1481"+Remove this unused "length" local variable.(öí·Ë
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÎáÈ·øÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¯â¸¸
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¯â¸¸
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+o
+java:S3012U"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ş‚°î
+o
+java:S3012e"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ş‚°î
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(ÌÿÉûùÿÿÿÿ8Çœõö¶0

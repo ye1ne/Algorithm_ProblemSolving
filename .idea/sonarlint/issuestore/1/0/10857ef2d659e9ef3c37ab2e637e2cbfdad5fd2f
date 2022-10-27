@@ -1,0 +1,14 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í½×ùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í½×ùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÄú
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãúƒ¬üÿÿÿÿ
+t
+java:S14889"^Immediately return this expression instead of assigning it to the temporary variable "answer".(üû‘€
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚ÍãÙıÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ç•çÓ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë¤ïl
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨‰¨Á
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Í½×ùÿÿÿÿ

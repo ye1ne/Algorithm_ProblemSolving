@@ -1,0 +1,19 @@
+
+t
+java:S1488$"^Immediately return this expression instead of assigning it to the temporary variable "answer".(é—º­
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—ôœøÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í«–
+x
+java:S4165"bRemove this useless assignment; "weak" already holds the assigned value along all execution paths.(ëšû•
+d
+java:S30082"NRename this field "MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ¢†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™þã¶
+M
+java:S1854"7Remove this useless assignment to local variable "arr".(®€ÁÇ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¾¼„:
+>
+java:S1481"(Remove this unused "arr" local variable.(®€ÁÇ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ô’Ï¤
+Q
+java:S1119C";Refactor the code to remove this label and the need for it.(õžœ£

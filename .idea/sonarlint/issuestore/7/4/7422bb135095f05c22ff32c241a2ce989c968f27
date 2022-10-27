@@ -1,0 +1,30 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "PXPXP" 3 times.(¦Š¶
+s	java:S135("YReduce the total number of break and continue statements in this loop to use at most one.(ı­Ïüÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸ÿ‡é
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ¿
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÏƒÛæøÿÿÿÿ
+R
+java:S18543"7Remove this useless assignment to local variable "col".(×ÛĞ®şÿÿÿÿ
+R
+java:S18542"7Remove this useless assignment to local variable "row".(§ÇØáúÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÏƒÛæøÿÿÿÿ
+Q
+java:S1119";Refactor the code to remove this label and the need for it.(…ç¡¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Q
+java:S1119'";Refactor the code to remove this label and the need for it.(õœ£
+=
+java:S1125+"'Remove the unnecessary boolean literal.(ğ¤œÖ
+C
+java:S14812"(Remove this unused "row" local variable.(§ÇØáúÿÿÿÿ
+C
+java:S14813"(Remove this unused "col" local variable.(×ÛĞ®şÿÿÿÿ
+=
+java:S11255"'Remove the unnecessary boolean literal.(ğ¤œÖ
+V	java:S125D"<This block of commented-out lines of code should be removed.(ÊîÇ•şÿÿÿÿ
+^
+java:S1126S"AReplace this if-then-else statement by a single return statement.(ÔÍÂ8«ñØ„¶0
