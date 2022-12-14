@@ -1,0 +1,24 @@
+
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ù“ñ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—˜‹
+t
+java:S1488#"^Immediately return this expression instead of assigning it to the temporary variable "answer".(Áı§œ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²—’Ğ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù¥‰
+U
+java:S1854	"?Remove this useless assignment to local variable "room_number".(•Ù“ñ
+P
+java:S1854"5Remove this useless assignment to local variable "k".(Ÿó„÷úÿÿÿÿ
+A
+java:S1481"&Remove this unused "k" local variable.(Ÿó„÷úÿÿÿÿ
+F
+java:S1481	"0Remove this unused "room_number" local variable.(•Ù“ñ
+Z
+java:S1854"DRemove this useless assignment to local variable "linkingNumberMap".(¸“ì
+O
+java:S1172"9Remove these unused method parameters "k", "room_number".(â—˜‹
+M
+java:S1481"7Remove this unused "totalLinkingNumber" local variable.(°Ñó¶
+K
+java:S1481"5Remove this unused "linkingNumberMap" local variable.(¸“ì
+]	java:S125"<This block of commented-out lines of code should be removed.(Ô½äĞıÿÿÿÿ8ó³¶†Æ0

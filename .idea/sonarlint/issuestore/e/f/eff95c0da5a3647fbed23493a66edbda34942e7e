@@ -1,0 +1,33 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "classic" 3 times.(Ÿ–Ÿç
+>
+java:S1604("(Make this anonymous inner class a lambda(éØÈß
+C
+java:S1604F"(Make this anonymous inner class a lambda(åè¶Œıÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â²Ëw
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª„´ºúÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(—ÎÓ¬ıÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(û¬“ûÿÿÿÿ
+:
+java:S2440 "%Remove this instantiation of "Genre".(†Ëøp
+P
+java:S2209+"5Change this instance-reference to a static reference.(»èˆ÷şÿÿÿÿ
+P
+java:S2209+"5Change this instance-reference to a static reference.(»èˆ÷şÿÿÿÿ
+P
+java:S22094"5Change this instance-reference to a static reference.(à¨Íäúÿÿÿÿ
+J
+java:S22095"5Change this instance-reference to a static reference.(©ñ³m
+3
+java:S1118D"Hide this public constructor.(™©ü
+A
+java:S3010E"&Remove this assignment of "totalPlay".(À´şıÿÿÿÿ
+J
+java:S3010F"/Remove this assignment of "musicPriorityQueue".(åè¶Œıÿÿÿÿ
+P
+java:S2209E"5Change this instance-reference to a static reference.(À´şıÿÿÿÿ
+P
+java:S2209F"5Change this instance-reference to a static reference.(åè¶Œıÿÿÿÿ

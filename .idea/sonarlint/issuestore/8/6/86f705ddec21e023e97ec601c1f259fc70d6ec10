@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒøñ„ùÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä¥Éû
+g
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ş„¡şÿÿÿÿ
+g
+java:S3008	"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ş„¡şÿÿÿÿ
+i
+java:S3008	"NRename this field "MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ş„¡şÿÿÿÿ
+Y
+java:S1659	">Declare "M" and all following declarations on a separate line.(·ş„¡şÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "bw".(ûÄÏ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûÄÏ
+=
+java:S1481"'Remove this unused "bw" local variable.(ûÄÏ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ŞÎÖæ

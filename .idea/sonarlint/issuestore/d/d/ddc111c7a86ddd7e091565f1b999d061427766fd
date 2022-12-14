@@ -1,0 +1,15 @@
+
+m	java:S127S"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şÑ‹Ûûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö†¤ƒıÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ä®çµ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(¼ÿ£øÿÿÿÿ
+D
+java:S5413Q")Verify that "remove()" is used correctly.(ç“—”şÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(âø¤å
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ı÷Äıÿÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(øÇıÂøÿÿÿÿ
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ı÷Äıÿÿÿÿÿ8ÌÅ¹Æ0
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8³ºÆ0
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(Ã“¼8˜†¿Æ0
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(¦ğøº8äÙõÆ0

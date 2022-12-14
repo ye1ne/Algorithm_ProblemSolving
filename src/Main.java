@@ -5,22 +5,25 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        while (true) {
-            String str = br.readLine();
-            if (str.equals("# 0 0")) break;
-            StringTokenizer st = new StringTokenizer(str);
-            String name = st.nextToken();
-            int N = Integer.parseInt(st.nextToken());
-            int M = Integer.parseInt(st.nextToken());
 
-            System.out.print(name + " ");
+        LinkedList<Integer> list = new LinkedList<>();
+        ArrayList<Integer> answer = new ArrayList<>();
+        Car2 car2 = new Car2();
+        car2.printCar();
+        Vector<Integer> vector = new Vector<>();
 
-            if (N > 17 || M >= 80) {
-                System.out.println("Senior");
-            } else
-                System.out.println("Junior");
+    }
 
 
+    public class test{
+
+    }
+
+    static class Car2 extends Car{
+
+//        @Override
+        void printCar() {
+            System.out.println("Car2");
         }
     }
 
@@ -41,6 +44,9 @@ public class Main {
             this.color = color;
             this.gearType = gearType;
             this.door = door;
+        }
+        void printCar(int a){
+            System.out.println("color: " + color + ", gearType: " + gearType + ", door: " + door);
         }
     }
 

@@ -1,0 +1,21 @@
+
+z	java:S135l"YReduce the total number of break and continue statements in this loop to use at most one.(ı­Ïüÿÿÿÿ8™˜Ğõ¶0
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·íşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Çã‘Ê
+i
+java:S3008x"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰×ÿô8£™Ğõ¶0
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ã€ˆ•
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ŸùÕƒûÿÿÿÿ
+`
+java:S11557">Use isEmpty() to check whether the collection is empty or not.(³°»ªûÿÿÿÿ8§™Ğõ¶0
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¨™Ğõ¶0
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©™Ğõ¶0
+p	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş’‹×ÿÿÿÿÿ8ª™Ğõ¶0
+\
+java:S1155ˆ">Use isEmpty() to check whether the collection is empty or not.(İÃŸš8«™Ğõ¶0
+p	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¾éªÿÿÿÿÿ8«™Ğõ¶0
+\
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(İÃŸš8¬™Ğõ¶0
+Y
+java:S1144]"<Remove this unused private "findAllLinkedAndReplace" method.(¼ÇÄĞ8¬™Ğõ¶0

@@ -45,8 +45,6 @@ g
 7src/Programmers/KAKAO2021RECRUITMENT/광고삽입4.java,1/0/10857ef2d659e9ef3c37ab2e637e2cbfdad5fd2f
 g
 7src/Programmers/KAKAO2022RECRUITMENT/양과늑대2.java,9/f/9fed47e50fd6690918ce02c15bb7f1e245c4c3e8
-=
-src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
 z
 Jsrc/leetcode/ch5_알고리즘/A64_973_원점에k번째로가까운점.java,0/2/028ac6270fba2b98d52e266b1fffb83a17b11270
 R
@@ -58,15 +56,11 @@ U
 �
 ^src/leetcode/ch4_비선형자료구조/A50_108_정렬된배열의이진탐색트리변환.java,7/9/790f03c94876a77c909b025d294a206dbb328846
 R
-"src/기본메소드/트라이.java,1/f/1f3ad414eb94d3f578e0a68211e09bd462067f7a
-R
 "src/기본메소드/라인/Q5.java,9/f/9fc07c4381d2764460c0f5dbd3e86f49088dff1e
 p
 @src/leetcode/ch5_알고리즘/A62_242_유효한애너그램.java,9/8/98a5763353e8a2daf0f6b9130367ab39fff85e85
 �
 Ysrc/leetcode/ch4_비선형자료구조/A41_787_k경유지내가장저렴한항공권.java,9/3/938363130710d540d5f90a80a7805007f11cbf98
-
-Osrc/leetcode/ch4_비선형자료구조/A40_743_네트워크딜레이타임.java,f/f/ff2c396fc291e7ef630a5b6539debf1a209d5795
 R
 "src/기본메소드/라인/Q4.java,d/f/dfc83a77a70a0888c99651798e53dc3b6beb080d
 T
@@ -98,8 +92,6 @@ W
 O
 src/기본메소드/조합.java,c/7/c7c794c70d56dffe509bb1e327df049a4c5fc631
 O
-src/기본메소드/순열.java,a/5/a50ccf6dcd1b1211f13a1d7d2fa3876a2e90a8c7
-O
 src/기본메소드/트리.java,8/3/83b09b4a0e05813acb41bc805fe98a133df6713f
 U
 %src/기본메소드/카카오/Q4.java,1/0/1032e167f6183b4d2fd8074ea9e0d64a9d608a69
@@ -107,10 +99,6 @@ v
 Fsrc/leetcode/ch4_비선형자료구조/A48_110_균형이진트리.java,5/3/533a2b1c6b499cd37155a92a0df639ec38ed0f12
 �
 asrc/leetcode/ch4_비선형자료구조/A54_105_전위중위순회결과로이진트리구축.java,1/2/12b2bce99a38c15127d89706b02e50ebd0fe3a16
-L
-src/기본메소드/DFS.java,f/a/fa976d919ff46e403ba713c0d3af80d3f0d86ae6
-L
-src/기본메소드/BFS.java,1/a/1a0846ef99a43fad4f92f4cbc5dd1074c43eea76
 W
 'src/기본메소드/카카오/Q4_4.java,a/d/ad00c5010d03b7961f80ac4559ab72b82fccf981
 W
@@ -121,3 +109,65 @@ W
 'src/기본메소드/카카오/Q4_6.java,9/9/99999e46562c69c51c35e92a6ccb7b0433b58120
 [
 +src/기본메소드/카카오/Q4_final.java,c/e/ceffa583e2a721be0593f5cb2185d62c58f08186
+R
+"src/기본메소드/라인/Q1.java,5/6/56ef1f3b44232d9aaf89bcce0e318dd8f65c34b5
+U
+%src/기본메소드/카카오/Q3.java,f/b/fb253234ed4fc7b58085265c2d6ec856faeec90f
+U
+%src/기본메소드/카카오/Q2.java,4/8/4819fc4e651e2529c58b5affef30ba05ad66c078
+W
+'src/기본메소드/카카오/Q4_3.java,a/c/acb91ec40542f3dd7a826b305a82a0d8e4316e60
+W
+'src/기본메소드/카카오/Q5_2.java,3/d/3d72993704a1a22e8738bc82670ee19bf322afee
+U
+%src/기본메소드/카카오/Q7.java,9/f/9f0d074e5e177aae64c0125490c24ded33e38c70
+U
+%src/기본메소드/카카오/Q5.java,0/c/0c7c7c5315d9d388ee399ad2d859f24f0fb888c6
+R
+"src/기본메소드/라인/Q2.java,c/3/c3506932f2c00fde026d016f9c6709e7bbff431a
+\
+,src/기본메소드/카카오/Q4_final2.java,c/6/c649d790dfeca0330beb4c1d5266603ea6d4d1c1
+c
+3src/baaarkingDogWorkBook/x0D_simulation/G16985.java,7/0/709aa3de20af43c1578b8785ad030abcb2950a3f
+
+Osrc/leetcode/ch4_비선형자료구조/A40_743_네트워크딜레이타임.java,f/f/ff2c396fc291e7ef630a5b6539debf1a209d5795
+R
+"src/기본메소드/트라이.java,1/f/1f3ad414eb94d3f578e0a68211e09bd462067f7a
+c
+3src/baaarkingDogWorkBook/x0D_simulation/G15686.java,8/6/86f705ddec21e023e97ec601c1f259fc70d6ec10
+p
+@src/Programmers/KAKAO2019인턴/크레인인형뽑기게임.java,b/3/b3bd160986259d700e509f76cb2fc3e9f18522dd
+d
+4src/Programmers/KAKAO2019인턴/불량사용자.java,7/a/7ac19e0f91248e16ce66b65c41df1b6135f3f9ab
+[
++src/Programmers/KAKAO2019인턴/튜플.java,a/4/a4465b651f121ccbf4f0d34a731e724dc1cb9a71
+j
+:src/Programmers/KAKAO2019인턴/징검다리건너기.java,6/4/649421fc4678437647692290a91a696466b624a6
+d
+4src/Programmers/KAKAO2019인턴/호텔방배정.java,f/8/f86c2e2ed23362abb4ca67fd32361e8bdc2d0f69
+g
+7src/Programmers/KAKAO2020인턴/키패드누르기.java,f/4/f4af204a2bc17650705df2b9305982d10b0a55b9
+d
+4src/Programmers/KAKAO2020인턴/수식최대화.java,d/d/ddc111c7a86ddd7e091565f1b999d061427766fd
+e
+5src/Programmers/practice/hash/전화번호목록.java,7/1/71443c6ae171015a1b053ca1c152ed7584ed60b3
+^
+.src/Programmers/practice/greedy/체육복.java,4/8/48d25a2ef7349b87a3cc8d6f41d8a75ed590ecc1
+a
+1src/Programmers/practice/greedy/조이스틱.java,7/c/7c524884bc9598426a65655192cb82fdaea61cc6
+b
+2src/Programmers/practice/hash/베스트앨범.java,e/f/eff95c0da5a3647fbed23493a66edbda34942e7e
+Y
+)src/Programmers/practice/hash/위장.java,3/4/34c8ef8d9727d7df3df6b579b2518951c262b905
+b
+2src/Programmers/practice/stackQueue/프린터.java,b/4/b4cee9a72ae149332eab724865e2ae137108afab
+h
+8src/Programmers/practice/heap/디스크컨트롤러.java,c/c/cc39b660c46e85113379c573d8fbfa896af2b5eb
+a
+1src/Programmers/practice/완전탐색/카펫.java,d/4/d4d78b4927ff6b1aa0afc8fee415ae0ae150fdc1
+^
+.src/Programmers/practice/dp/N으로표현.java,5/1/517adafaea9217befc63953304be182cd1ae7041
+a
+1src/Programmers/practice/DFSBFS/타겟넘버.java,8/6/86d54d6787440db530ffd118880aef98f3fab224
+=
+src/test.java,2/e/2e9f5287534e2ab86bcabfff7a3c5f9b053752ae

@@ -1,16 +1,14 @@
 package 기본메소드;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class 트라이 {
 
     public static void main(String[] args) {
         String[] word = {"frodo", "front", "frost", "frozen", "frame", "kakao"};
         String[] queries = {"fro??", "????o", "fr???", "fro???", "pro?"};
-        solution(word,queries);
+        int[] result = solution(word,queries);
+        System.out.println(Arrays.toString(result));
     }
 
     static public int[] solution(String[] words, String[] queries) {
@@ -22,9 +20,7 @@ public class 트라이 {
         int[] result = new int[queries.length];
         int i =0;
         for(String query: queries){
-            List<String> list = new ArrayList<>();
-            if(i==1)
-                System.out.println();
+
             count = 0;
             size = query.length();
             permutation(0,new StringBuilder(),query);

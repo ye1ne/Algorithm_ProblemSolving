@@ -1,0 +1,16 @@
+
+m
+java:S1104"WMake studentCode a static final constant or non-public and provide accessors if needed.(ä±ë
+G
+java:S1444"1Make this "public static studentCode" field final(ä±ë
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+<
+java:S1481
+"&Remove this unused "a" local variable.(€ôá
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+D
+java:S1068")Remove this unused "score" private field.(µ¼æÿÿÿÿÿ
