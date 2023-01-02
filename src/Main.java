@@ -3,21 +3,23 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-
-        LinkedList<Integer> list = new LinkedList<>();
-        ArrayList<Integer> answer = new ArrayList<>();
-        Car2 car2 = new Car2();
-        car2.printCar();
-        Vector<Integer> vector = new Vector<>();
+        String param0 = "happy";
+        int tmp  = param0.charAt(2) - 'a';
+        int row = tmp/6;
+        int col = tmp%6;
+        System.out.println(row+" "+col);
+        List<Integer>[] list = new List[10];
+        list[0] = new ArrayList<>();
+        Set<Integer> set = new HashSet<>();
+        set.toString();
+        set.size();
+        list[0].size();
 
     }
 
 
-    public class test{
 
-    }
 
     static class Car2 extends Car{
 

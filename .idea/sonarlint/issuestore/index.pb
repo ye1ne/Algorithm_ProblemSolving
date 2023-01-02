@@ -11,8 +11,6 @@ f
 6src/Programmers/KAKAO2022RECRUITMENT/양궁대회.java,f/a/fa7590a13886ffc673db3b772fde4252a7089bd2
 r
 Bsrc/Programmers/KAKAO2019RECRUITMENT/무지의먹방라이브.java,1/a/1ae831f938c698a2f16dd8cf6b5eabe19d2f58fd
-f
-6src/Programmers/KAKAO2019RECRUITMENT/매칭점수.java,1/b/1b3e4be77ae858be3d97eb4d2c50ba4fa7726306
 l
 <src/Programmers/KAKAO2020RECRUITMENT/기둥과보설치.java,4/9/499f57f1be5cc8f7fe0235c785354e1e3eceb001
 m
@@ -31,8 +29,6 @@ k
 ;src/Programmers/KAKAO2022INTERN/등산코스정하기2.java,c/a/ca1ca3780397c525137e78cb25733866ce9fbfeb
 j
 :src/Programmers/KAKAO2022INTERN/등산코스정하기.java,b/3/b341ebce5af8a369e9d48fd635a830893517bcbb
-g
-7src/Programmers/KAKAO2021INTERN/거리두기확인.java,7/4/7422bb135095f05c22ff32c241a2ce989c968f27
 f
 6src/Programmers/KAKAO2021RECRUITMENT/순위검색.java,0/9/09ee13b3114bd208977677a67885c0fe7d7135fc
 f
@@ -51,8 +47,6 @@ R
 "src/기본메소드/구간합.java,e/0/e027f87e87c3d2bc7bdb7d75f968a83c1b1dccab
 �
 Vsrc/leetcode/ch4_비선형자료구조/A47_297_이진트리직렬화와역렬화X.java,6/f/6feee35cfd1a82748ec75b2f920e324e262ab366
-U
-%src/기본메소드/이분탐색.java,b/7/b7fe7ec3913a843022462703fec8891206e3822f
 �
 ^src/leetcode/ch4_비선형자료구조/A50_108_정렬된배열의이진탐색트리변환.java,7/9/790f03c94876a77c909b025d294a206dbb328846
 R
@@ -159,8 +153,6 @@ b
 2src/Programmers/practice/hash/베스트앨범.java,e/f/eff95c0da5a3647fbed23493a66edbda34942e7e
 Y
 )src/Programmers/practice/hash/위장.java,3/4/34c8ef8d9727d7df3df6b579b2518951c262b905
-b
-2src/Programmers/practice/stackQueue/프린터.java,b/4/b4cee9a72ae149332eab724865e2ae137108afab
 h
 8src/Programmers/practice/heap/디스크컨트롤러.java,c/c/cc39b660c46e85113379c573d8fbfa896af2b5eb
 a
@@ -171,3 +163,26 @@ a
 1src/Programmers/practice/DFSBFS/타겟넘버.java,8/6/86d54d6787440db530ffd118880aef98f3fab224
 =
 src/test.java,2/e/2e9f5287534e2ab86bcabfff7a3c5f9b053752ae
+L
+src/기본메소드/BFS.java,1/a/1a0846ef99a43fad4f92f4cbc5dd1074c43eea76
+L
+src/기본메소드/DFS.java,f/a/fa976d919ff46e403ba713c0d3af80d3f0d86ae6
+O
+src/기본메소드/순열.java,a/5/a50ccf6dcd1b1211f13a1d7d2fa3876a2e90a8c7
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+g
+7src/Programmers/KAKAO2021INTERN/거리두기확인.java,7/4/7422bb135095f05c22ff32c241a2ce989c968f27
+f
+6src/Programmers/KAKAO2019RECRUITMENT/매칭점수.java,1/b/1b3e4be77ae858be3d97eb4d2c50ba4fa7726306
+g
+7src/Programmers/practice/이분탐색/징검다리.java,7/0/70345dc4fa58ec643ec73e630447f9aa9f8f0294
+j
+:src/Programmers/practice/DFSBFS/게임맵최단거리.java,4/8/485c05bcc89714127b2a5fd52c7dbf65f25a5c51
+t
+Dsrc/Programmers/practice/이분탐색/입국심사_이분탐색.java,d/a/da6756ea2c1bf017fe031e5e0362acf710744186
+g
+7src/Programmers/practice/그래프/가장먼노드.java,6/f/6f4ff6c8ec2337c9a9955f1114c021efc6814046
+b
+2src/Programmers/practice/stackQueue/프린터.java,b/4/b4cee9a72ae149332eab724865e2ae137108afab
