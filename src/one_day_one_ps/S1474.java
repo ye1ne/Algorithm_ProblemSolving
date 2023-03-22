@@ -7,15 +7,7 @@ import java.util.*;
 
 public class S1474 {
 
-
-
     public static void main(String[] args) throws Exception {
-        inputNumberAndStrings();
-
-    }
-
-    private static void inputNumberAndStrings() throws IOException {
-
         List<String> wordList = new ArrayList<>();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
