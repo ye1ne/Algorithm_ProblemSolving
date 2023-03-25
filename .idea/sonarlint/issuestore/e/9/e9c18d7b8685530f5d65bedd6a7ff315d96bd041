@@ -1,14 +1,0 @@
-
-7
-java:S1643/"Use a StringBuilder instead.(Úšáäûÿÿÿÿ
-7
-java:S16430"Use a StringBuilder instead.(ÔĞáùÿÿÿÿ
-a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆß
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í«–
-f
-java:S11498"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²Áßş
-S	java:S106"9Replace this use of System.out or System.err by a logger.(êŞËìúÿÿÿÿ
-N	java:S106
-"9Replace this use of System.out or System.err by a logger.(ÉÛ·Ø
-1
-java:S3626B"Remove this redundant jump.(ÉŠ©ƒ

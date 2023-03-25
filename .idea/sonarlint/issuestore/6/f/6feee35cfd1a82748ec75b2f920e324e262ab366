@@ -1,15 +1,0 @@
-
-n	java:S135C"YReduce the total number of break and continue statements in this loop to use at most one.(ãéº¦
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Êéìşÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü«øª
-R
-java:S1854"7Remove this useless assignment to local variable "ans".(•‹•æüÿÿÿÿ
-M
-java:S1854"7Remove this useless assignment to local variable "str".(ÈÃì¶
-V	java:S125"<This block of commented-out lines of code should be removed.(¯Õû“ıÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(—¦Æ­ÿÿÿÿÿ
->
-java:S1481"(Remove this unused "str" local variable.(ÈÃì¶
-C
-java:S1481"(Remove this unused "ans" local variable.(•‹•æüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

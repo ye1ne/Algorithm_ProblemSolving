@@ -1,29 +1,0 @@
-
-n	java:S135A"YReduce the total number of break and continue statements in this loop to use at most one.(ÁË¾Ç
-7
-java:S1643$"Use a StringBuilder instead.(ìá­æøÿÿÿÿ
-2
-java:S1643&"Use a StringBuilder instead.(®ÑÿŸ
-7
-java:S1643-"Use a StringBuilder instead.(ìá­æøÿÿÿÿ
-2
-java:S1643/"Use a StringBuilder instead.(®ÑÿŸ
-7
-java:S1643S"Use a StringBuilder instead.(İ†ÈÀúÿÿÿÿ
-2
-java:S1643`"Use a StringBuilder instead.(Øëæ 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úî‰“úÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(»¢¦‘
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(£î°
-m
-java:S37767"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ãõøÿÿÿÿÿ
-1
-java:S3626B"Remove this redundant jump.(øªú
-Q
-java:S11199";Refactor the code to remove this label and the need for it.(õœ£
-S	java:S106<"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Q
-java:S1119@";Refactor the code to remove this label and the need for it.(ß¦‡Á
-H
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

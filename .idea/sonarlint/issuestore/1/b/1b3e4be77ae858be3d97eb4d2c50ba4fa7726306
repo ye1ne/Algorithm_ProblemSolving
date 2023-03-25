@@ -1,23 +1,0 @@
-
-1
-java:S1643."Use a StringBuilder instead.(ÛýŸ
-t
-java:S1488>"^Immediately return this expression instead of assigning it to the temporary variable "answer".(åí¢é
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š„ó¾ÿÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¹Ä„
-^
-java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(äÌÒÏ
-V
-java:S18540";Remove this useless assignment to local variable "outLink".(ðÁÂÙÿÿÿÿÿ
-A
-java:S1172"+Remove this unused method parameter "word".(¢Øº¤
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¢Øº¤
-C
-java:S1481*"-Remove this unused "realBody" local variable.(é«¬›
-G
-java:S14810",Remove this unused "outLink" local variable.(ðÁÂÙÿÿÿÿÿ
-S	java:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
-V	java:S1255"<This block of commented-out lines of code should be removed.(ø¥´ôüÿÿÿÿ
-Q
-java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñþÿÿÿÿ

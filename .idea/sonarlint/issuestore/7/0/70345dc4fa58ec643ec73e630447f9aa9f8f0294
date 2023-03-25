@@ -1,8 +1,0 @@
-
-{
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(åí¢é8ú±´ñÑ0
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÔØŒß
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­—ãşÿÿÿÿ
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ËìĞûÿÿÿÿ8ş±´ñÑ0
-X
-java:S1172"6Remove these unused method parameters "distance", "n".(•É‰áşÿÿÿÿ8ÿ±´ñÑ0

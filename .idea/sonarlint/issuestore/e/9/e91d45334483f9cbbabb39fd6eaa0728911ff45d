@@ -1,17 +1,0 @@
-
-s	java:S135$"YReduce the total number of break and continue statements in this loop to use at most one.(½æ¥œûÿÿÿÿ
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôÁÍæ
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í«–
-V	java:S125"<This block of commented-out lines of code should be removed.(ã²ß¹ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ý·‡‘øÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ
-h
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ýóˆ½
-Q
-java:S1119";Refactor the code to remove this label and the need for it.(ëìâŠ
-V
-java:S1119 ";Refactor the code to remove this label and the need for it.(Õ×¾”üÿÿÿÿ
-4
-java:S1065 "Remove this unused label.(Õ×¾”üÿÿÿÿ
-Q
-java:S1119#";Refactor the code to remove this label and the need for it.(õžœ£

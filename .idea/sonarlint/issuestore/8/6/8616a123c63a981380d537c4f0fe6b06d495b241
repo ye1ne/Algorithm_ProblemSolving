@@ -1,26 +1,0 @@
-
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½“¿ÿ
-2
-java:S1643$"Use a StringBuilder instead.(Âˆ¹•
-2
-java:S1643("Use a StringBuilder instead.(›ä²•
-7
-java:S1643)"Use a StringBuilder instead.(„²‰èÿÿÿÿÿ
-7
-java:S1643+"Use a StringBuilder instead.(¶Ìï„ÿÿÿÿÿ
-2
-java:S16435"Use a StringBuilder instead.(›ä²•
-7
-java:S16436"Use a StringBuilder instead.(„²‰èÿÿÿÿÿ
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æğ¡˜
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í«–
-P
-java:S1854":Remove this useless assignment to local variable "result".(İãú
-M	java:S106"9Replace this use of System.out or System.err by a logger.(â©—o
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛèÏØ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¯Á Ğ
-h
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¶Ğ¯
-Q
-java:S1119";Refactor the code to remove this label and the need for it.(…ç¡¿
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
