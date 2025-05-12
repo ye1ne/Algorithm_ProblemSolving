@@ -10,6 +10,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/기본메소드/카카오모빌리티" />
       <excludeFolder url="file://$MODULE_DIR$/src/기본메소드/카카오수시채용" />
       <excludeFolder url="file://$MODULE_DIR$/src/기본메소드/카카오" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/copilot/chatSessions" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
